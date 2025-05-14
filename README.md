@@ -1,6 +1,6 @@
 # Sistem Pengocok Dadu dengan Kalkulator Bilangan
 
-Proyek ini menggunakan Arduino sebagai kontroller utama. Alat ini digunakan untuk mengocok 2 dadu secara otomatis menggunakan Servo kemudian dilengkapi kalkulator untuk mengecek jawaban atau bilangan hasil keluarnya 2 dadu. Proyek ini merupakan pesanan untuk Lomba.
+Proyek ini menggunakan Arduino sebagai kontroller utama. Alat ini digunakan untuk mengocok 2 dadu secara otomatis menggunakan Servo kemudian dilengkapi Keypad untuk input bilangan pada kalkulator atau mengecek jawaban hasil keluarnya 2 dadu. Proyek ini merupakan pesanan untuk Lomba.
 
 ## Contacs us : 
 * [Frendi RoboTech](https://www.instagram.com/frendi.co/)
