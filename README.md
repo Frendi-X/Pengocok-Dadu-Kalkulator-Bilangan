@@ -2,7 +2,7 @@
 
 ## 🧩 Deskripsi Proyek
 Proyek ini merupakan **alat edukatif interaktif** yang menggabungkan konsep **pengocokan dadu otomatis** dengan **sistem koreksi jawaban**.  
-Menggunakan **Arduino**, alat ini dapat menampilkan hasil dadu secara acak, menerima **jawaban dari pengguna melalui keypad**, serta memberikan **respon suara dan gerakan servo** untuk menunjukkan hasil **benar atau salah**.
+Menggunakan **Arduino**, alat ini dapat menampilkan hasil dadu secara acak, menerima **jawaban dari pengguna melalui keypad**, serta memberikan **respon suara dan gerakan servo** untuk menunjukkan hasil **benar atau salah**. [AIR FORCE - Al Irsyad Purwokerto]
 
 ---
 
